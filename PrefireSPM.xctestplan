@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "ED146A35-7517-40C6-B621-0F281DD43AA8",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Modules",
+        "identifier" : "AppFeatureTests",
+        "name" : "AppFeatureTests"
+      }
+    }
+  ],
+  "version" : 1
+}
