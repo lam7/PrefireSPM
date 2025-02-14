@@ -1,0 +1,4 @@
+test_configuration:
+  - snapshot_devices:
+  	- iPhone 14
+  	- iPad
