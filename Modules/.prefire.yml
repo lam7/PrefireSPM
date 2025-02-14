@@ -2,3 +2,4 @@ test_configuration:
   - snapshot_devices:
   	- iPhone 14
   	- iPad
+  - template_file_path: CustomPreviewTests.stencil
